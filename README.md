@@ -1,2 +1,2 @@
 # Generation
-Repositório de Atividades Generation com a ferramenta Portugol
+Repositório de Atividades da Generation com a ferramenta Portugol
